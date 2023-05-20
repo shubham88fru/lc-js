@@ -1,4 +1,5 @@
 /**
+ * @link https://leetcode.com/problems/promise-time-limit/
  * @param {Function} fn
  * @param {number} t
  * @return {Function}
